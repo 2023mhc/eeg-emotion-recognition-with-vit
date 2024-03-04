@@ -41,7 +41,7 @@ init_args = {  'xwtdata_':'cwtdata',  #*rawdata,cwtdata,dwtdata,dtcwtdata
                'cols_':32,
                'freqs_':False,          #*eeg frequency
                'src_':'/content/drive/MyDrive/DEAP/',
-               'dest_':'/content/drive/MyDrive/DEAP/cwt'
+               'dest_':'/content/drive/MyDrive/DEAP/'
                 }
 
 #*default paramters
