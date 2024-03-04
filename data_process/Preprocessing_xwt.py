@@ -23,8 +23,8 @@ init_args = {  'xwtdata_':'cwtdata',  #*rawdata,cwtdata,dwtdata,dtcwtdata
                'cols_':32,
                'freqs_':False,
                'wavesegs_':28,
-               'src_':'/home/renhong_zhang/path-to-project/DEAP/test_out/my_erVITer_01',
-               'dest_':'/home/renhong_zhang/path-to-project/DEAP/test_out/my_erVITer_01/mydata'
+               'src_':'/content/drive/MyDrive/DEAP',
+               'dest_':'/content/drive/MyDrive/DEAP/mydata'
                 }
 
 wavesegments = init_args['wavesegs_']  
